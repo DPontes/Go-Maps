@@ -4,7 +4,15 @@ The code is for the Go-Maps project, first project from the Udemy course Go: The
 
 ## Output
 
-The application returns a string containing a map
+The application returns a list of strings of the content of the map `colors`
+
+### Example
+
+```bash
+hex code for blue is #00FF00
+hex code for red is #FF0000
+hex code for green is #0000FF
+```
 
 ## How-To
 
