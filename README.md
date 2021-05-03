@@ -1,6 +1,6 @@
 # Maps Exercise in Golang
 
-The code is for the Go-Maps project, first project from the Udemy course Go: The Complete Developer's Guide
+The code is for the Go-Maps project from the Udemy course Go: The Complete Developer's Guide
 
 ## Output
 
